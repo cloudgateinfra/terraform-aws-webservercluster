@@ -1,4 +1,4 @@
-# Autoscaling Web Server Cluster Example
+# autoscaled webserver cluster
 
 This folder contains an example [Terraform](https://www.terraform.io/) configuration that deploys a cluster of web servers
 (using [EC2](https://aws.amazon.com/ec2/) and [Auto Scaling](https://aws.amazon.com/autoscaling/)) and a load balancer
